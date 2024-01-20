@@ -2,9 +2,10 @@
 # Hi, I'm Yahya👋
 [![](https://visitcount.itsvg.in/api?id=yahyafakhroji&icon=7&color=1)](https://visitcount.itsvg.in)
 <br>
-- 🚀 Full Stack Developer passionate about building web applications.<br>
+- 🚀 Frontend Engineer focused on building products with web technologies and extra attention to user POV.<br>
 - 🌱 I’m currently learning Web3 and DevOps <br>
-- 😎 Inspirational Words: ***"Slightly Different is Better. Instead of Not at All"***
+- 🎮 Rubick Player <br>
+- 😎 Inspirational Words: ***"No sorcery lies beyond my grasp"***
 
 
 ### 🌐 Socials:
