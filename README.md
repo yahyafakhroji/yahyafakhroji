@@ -4,7 +4,7 @@
 <br>
 - 🚀 Frontend Engineer focused on building products with web technologies and extra attention to user POV.<br>
 - 🌱 I’m currently learning Web3 and DevOps <br>
-- 🎮 Rubick Player <br>
+- 🎮 Rubick Player (Dota 2) <br>
 - 😎 Inspirational Words: ***"No sorcery lies beyond my grasp"***
 
 
