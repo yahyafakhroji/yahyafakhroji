@@ -2,8 +2,8 @@
 # Hi, I'm Yahya👋
 [![](https://visitcount.itsvg.in/api?id=yahyafakhroji&icon=7&color=1)](https://visitcount.itsvg.in)
 <br>
-- 🚀 Frontend Engineer focused on building products with web technologies and extra attention to user POV.<br>
-- 🌱 I’m currently learning Web3 and DevOps <br>
+- 🚀 I’m passionate about exploring and advancing web technologies that make a meaningful impact.<br>
+- 🌱 I’m currently learning Web3 and DevOps. <br>
 - 🎮 Rubick Player (Dota 2) <br>
 - 😎 Inspirational Words: ***"No sorcery lies beyond my grasp"***
 
